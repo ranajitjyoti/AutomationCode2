@@ -68,5 +68,10 @@ public class BasePage {
 			}
 	return prop;
 	}
+	
+	public void getAccountPage()
+	{
+		System.out.println("tis is getaccount pagea");
+	}
 
 }
